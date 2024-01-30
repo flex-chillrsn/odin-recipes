@@ -1,3 +1,7 @@
+body {
+    background-color:antiquewhite;
+}
+
 h1 {
     background-color: yellow;
     border-style: solid;
@@ -6,6 +10,32 @@ h1 {
     padding-left: 5px;
 }
 
+h2 {
+    font-family: Helvetica, sans-serif;
+    background-color:rgb(250, 246, 127);
+    padding-left: 5px;
+
+}
+
+p {
+    font-family: Tahoma;
+    font-style: italic;
+}
+
 li a {
     font-family: 'Lucida Sans', sans-serif;
+}
+
+.ingredients-list li {
+    font-family: monospace;
+}
+
+.steps li {
+    font-family: Tahoma, sans-serif;
+    font-weight: 500;
+
+}
+
+.credits {
+    font-size: 11px;
 }
