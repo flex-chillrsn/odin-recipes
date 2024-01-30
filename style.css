@@ -1,0 +1,11 @@
+h1 {
+    background-color: yellow;
+    border-style: solid;
+    font-family:  Helvetica, sans-serif;
+    border-width: 3px;
+    padding-left: 5px;
+}
+
+li a {
+    font-family: 'Lucida Sans', sans-serif;
+}
