@@ -17,6 +17,15 @@ h2 {
 
 }
 
+div .introduction {
+    text-align: center;
+}
+
+
+div img {
+    padding-left: 150px;
+    
+}
 p {
     font-family: Tahoma;
     font-style: italic;
@@ -30,7 +39,7 @@ li a {
     font-family: monospace;
 }
 
-.steps li {
+.steps-list li {
     font-family: Tahoma, sans-serif;
     font-weight: 500;
 
@@ -38,4 +47,12 @@ li a {
 
 .credits {
     font-size: 11px;
+    border-color: black;
+    border-top: solid;
+}
+
+.nav {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: block;
 }
